@@ -1,0 +1,241 @@
+.con {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  flex-direction: row;
+  height: 800px;
+  width: 600px;
+}
+
+.leftPanel{
+  display: flex;
+  height: 790px;
+  width: 220px;
+  background-color: #e6e6e6;
+  margin-left: 5px;
+  margin-top: 5px;
+  flex-direction: column;
+}
+.nam{
+  color: white;
+  position: absolute;
+  font-size: 20px;
+  margin-top: 40px;
+  margin-left: 70px;
+}
+.name{
+  margin-top: 60px;
+  color: white;
+  position: absolute;
+  font-size: 20px;
+  margin-left: 50px;
+}
+.round{
+  position: absolute;
+  height: 180px;
+  width: 220px;
+  background-color: black;
+  border-radius: 50%;
+}
+.topr{
+  position: relative;
+  height: 100px;
+  width: 220px;
+  background-color: black;
+}
+.pic{
+  position: absolute;
+  background-color: #c8c8c8;
+  margin-top: 90px;
+  margin-left: 50px;
+  border-radius: 50%;
+  border:solid 4px #c8c8c8 ;
+}
+.pro{
+  border-radius: 50%;
+  border:solid 2px #c8c8c8 ;
+}
+.p{
+  height: 160px;
+  width: 200px;
+}
+.personal{
+  margin-left: 10px;
+  font-size: 15px;
+  color: black;
+  height: 20px;
+  width: 200px;
+  border-bottom: solid 2px #c8c8c8;
+}
+.divone{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  width: 200px;
+  margin-left: 10px;
+}
+.divv{
+  display: flex;
+  margin-left: 10px;
+  font-size: 10px;
+  color: black;
+  margin-left: 10px;
+}
+.icon{
+  display: flex;
+}
+.skill{
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 15px;
+  color: black;
+  height: 20px;
+  width: 200px;
+  border-bottom: solid 2px #c8c8c8;
+}
+.divtwo{
+  width: 200px;
+  display: flex;
+  margin-left: 10px;
+  font-size: 10px;
+  justify-content: space-between;
+}
+.languages{
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 15px;
+  color: black;
+  height: 20px;
+  width: 200px;
+  border-bottom: solid 2px #c8c8c8;
+}
+.divthree{
+  width: 200px;
+  display: flex;
+  margin-left: 10px;
+  font-size: 10px;
+  justify-content: space-between;
+}
+.hobby{
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 15px;
+  color: black;
+  height: 20px;
+  width: 200px;
+  border-bottom: solid 2px #c8c8c8;
+}
+.lin{
+  display: flex;
+  width: 200px;
+  font-size: 10px;
+  margin-left: 10px;
+
+}
+.divfour{
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.quality{
+  margin-left: 10px;
+  font-size: 15px;
+  color: black;
+  height: 20px;
+  width: 200px;
+  border-bottom: solid 2px #c8c8c8;
+}
+.qua{
+  display: flex;
+  width: 200px;
+  margin-left: 10px;
+  font-size: 10px;
+}
+.divfive{
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.rightPanel{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  height: 800px;
+  width: 370px;
+}
+.edu{
+  margin-left: 10px;
+  font-size: 25px;
+  color: gray;
+  height: 30px;
+  width: 350px;
+  border-bottom: solid 2px #c8c8c8;
+}
+.group{
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+.gr{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.ed{
+  font-size: 15px;
+  color: black;
+}
+.date{
+  font-size: 10px;
+  color: gray;
+}
+.loc{
+  font-size: 10px;
+  color:#c8c8c8;
+}
+.Ach{
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 25px;
+  color: gray;
+  height: 30px;
+  width: 350px;
+  border-bottom: solid 2px #c8c8c8;
+}
+.achi{
+  font-size: 15px;
+  margin-right: 10px;
+}
+.fam{
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 25px;
+  color: gray;
+  height: 30px;
+  width: 350px;
+  border-bottom: solid 2px #c8c8c8;
+}
+.fami{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.other{
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 25px;
+  color: gray;
+  height: 30px;
+  width: 350px;
+  border-bottom: solid 2px #c8c8c8;
+}
